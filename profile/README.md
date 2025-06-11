@@ -1,4 +1,4 @@
-# Gobits - Gophers que falam português/Gophers that speak Portuguese
+# Gobits - Gophers que falam português
 
 Bem vindos ao espaço Gobits, uma comunidade Lusófona de developers de Go.
 
@@ -7,6 +7,8 @@ Português.
 
 
 ---
+
+## Gobits - Gophers that speak Portuguese
 
 Welcome to the Gobits Space, a community of Portuguese speaking Go developers.
 
